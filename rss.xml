@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:turbo="http://news.yandex.ru">
+    <channel>
+        <title>Gramtele</title>
+        <link>https://gramtele.ru</link>
+        <description>Услуги по продвижению в социальных сетях</description>
+        
+        <item>
+            <title>Главная страница</title>
+            <link>https://gramtele.ru</link>
+            <turbo:content>
+                <![CDATA[
+                    <header>
+                        <h1>Gramtele - Продвижение в социальных сетях</h1>
+                    </header>
+                    <p>Основная информация о вашем сайте и услугах.</p>
+                ]]>
+            </turbo:content>
+        </item>
+
+        <item>
+            <title>Услуги</title>
+            <link>https://gramtele.ru/services</link>
+            <turbo:content>
+                <![CDATA[
+                    <header>
+                        <h1>Наши услуги</h1>
+                    </header>
+                    <p>Описание услуг по продвижению в социальных сетях.</p>
+                ]]>
+            </turbo:content>
+        </item>
+
+        <item>
+            <title>Вход</title>
+            <link>https://gramtele.ru/login</link>
+            <turbo:content>
+                <![CDATA[
+                    <header>
+                        <h1>Вход в аккаунт</h1>
+                    </header>
+                    <p>Страница для входа в личный кабинет.</p>
+                ]]>
+            </turbo:content>
+        </item>
+
+        <item>
+            <title>Регистрация</title>
+            <link>https://gramtele.ru/reg</link>
+            <turbo:content>
+                <![CDATA[
+                    <header>
+                        <h1>Регистрация</h1>
+                    </header>
+                    <p>Создайте аккаунт, чтобы пользоваться нашими услугами.</p>
+                ]]>
+            </turbo:content>
+        </item>
+
+        <item>
+            <title>Заказ услуг</title>
+            <link>https://gramtele.ru/order</link>
+            <turbo:content>
+                <![CDATA[
+                    <header>
+                        <h1>Оформление заказа</h1>
+                    </header>
+                    <p>Страница для оформления заказа на услуги.</p>
+                ]]>
+            </turbo:content>
+        </item>
+    </channel>
+</rss>
